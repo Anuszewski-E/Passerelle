@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro:400,400i,700,700i&display=swap');
+
+body{
+    font-family: 'Anonymous Pro', monospace;
+}
+
+
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+.full-container{
+    width: 100%;
+}
+.actualites #actu1{
+margin-left: 0px;
+padding-left:0px;
+
+}
+.actualites{
+    border: 1px solid black;
+}
+
+.navbar-ariane .breadcrumb-item + .breadcrumb-item::before {
+    content: none; }
+.navbar-ariane .breadcrumb-item.active {
+    color: #ACCAEC;
+ }
+
+.navbar-ariane .breadcrumb {
+     background: none;
+ }
+
+.navbar .logo>a>img{
+    width: 200px;
+    margin-left: 220px;
+}
+
+.navbar #navbarSupportedContent img{
+     width: 35px;
+ }
+
+ .navbar {
+    border-bottom: 1px solid black;
+    margin: auto 0;
+ }
+
+ .face{
+     width: 50px;
+     margin-right: 10px;
+ }
+
+h3{
+ font-size: 20px;
+ }
+
+.produit1{
+    border: 1px solid black;
+    margin-right: 10px;
+   
+}
+
+.xxxxx{
+    margin-right: 0px;
+    
+    
+}
